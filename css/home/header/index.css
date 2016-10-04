@@ -1,0 +1,13 @@
+@import 'search.css';
+@import 'logo.css';
+@import 'auth.css';
+
+.b-home__line.b-header {
+	height: 5vh;
+	text-align: center;
+}
+
+.b-home__line.b-header > * {
+	display: inline-block;
+	vertical-align: middle;
+}

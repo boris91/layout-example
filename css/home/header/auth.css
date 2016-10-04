@@ -1,0 +1,8 @@
+.b-home__line.b-header > .b-auth {
+	float: right;
+}
+
+.b-home__line.b-header > .b-auth > * {
+	display: inline-block;
+	vertical-align: middle;
+}
